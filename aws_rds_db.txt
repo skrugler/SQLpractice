@@ -1,0 +1,7 @@
+﻿Username: admin
+Password: sql_202
+Host: lmu-sql.crzbexzqlsvs.us-east-2.rds.amazonaws.com
+Database: sql_project    
+
+
+%sql mysql://admin:sql_2020@lmu-sql.crzbexzqlsvs.us-east-2.rds.amazonaws.com/sql_project
